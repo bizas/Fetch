@@ -2,6 +2,7 @@
 <database>
     <element label="Dogs" max_length="40" name="x_224380_fetch_dogs" type="collection">
         <element label="Adoption Center" max_length="32" name="adoption_center" reference="x_224380_fetch_adoption_center" type="reference"/>
+        <element label="Age" max_length="40" name="age" type="integer"/>
         <element label="Bio" max_length="4000" name="bio" type="string"/>
         <element choice="1" label="Breed" max_length="40" name="breed" type="choice">
             <choice>

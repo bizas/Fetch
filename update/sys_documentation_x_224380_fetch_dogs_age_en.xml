@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="age" label="Age" language="en" table="x_224380_fetch_dogs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>age</element>
+            <help/>
+            <hint/>
+            <label>Age</label>
+            <language>en</language>
+            <name>x_224380_fetch_dogs</name>
+            <plural>Ages</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 08:41:26</sys_created_on>
+            <sys_id>78d17e744f5313001c794f00a310c799</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Age</sys_name>
+            <sys_package display_value="Fetch" source="x_224380_fetch">279666bc4f1313001c794f00a310c7da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fetch">279666bc4f1313001c794f00a310c7da</sys_scope>
+            <sys_update_name>sys_documentation_x_224380_fetch_dogs_age_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 08:41:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
